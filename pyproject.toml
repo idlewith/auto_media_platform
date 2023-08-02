@@ -1,13 +1,21 @@
 [tool.poetry]
 name = "auto_media_platform"
-version = "0.0.2"
+version = "0.0.3"
 description = "generate video and upload to multiple media platform automatically"
 authors = ["idlewith <newellzhou@163.com>"]
 license = "MIT"
 readme = "README.md"
+homepage = "https://github.com/idlewith/auto_media_platform"
+classifiers = [
+    "Development Status :: 1 - Planning",
+    "Environment :: Console",
+    "Intended Audience :: End Users/Desktop",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+]
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = ">=3.7, <4"
 
 [tool.poetry.dev-dependencies]
 
