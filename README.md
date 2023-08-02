@@ -3,10 +3,16 @@
 generate video and upload to multiple media platform automatically
 
 
-## install ask_robot
+## install auto_media_platform
 
 ```
 pip install auto_media_platform
+```
+
+## how to use
+
+```
+mp
 ```
 
 
